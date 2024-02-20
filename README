@@ -1,0 +1,11 @@
+vi2da
+
+FILES:
+MapReduceFramework.cpp -- a file with the scheduler implementation
+Barrier.h			   -- Barrier class header	
+Barrier.cpp			   -- Barrier class implementation
+Makefile     		   -- a makefile to create the library
+README                 -- this file
+
+REMARKS:
+None
